@@ -1,0 +1,215 @@
+
+
+1 Тур 
+
+17.07
+	Spartak		2-2	Ufa
+18.07
+	CSKA		1-0	Rubin
+	Rostov		1-1	Terek
+19.07
+	Anzhi		0-1	Krilya Sovetov
+	Zenit		2-1	Dinamo
+	Mordovia	0-1	Lokomotiv
+20.07
+	Amkar		0-1	Krasnodar
+	Kuban		0-2	Ural
+
+
+2 Тур 
+
+24.07
+	Krilya Sovetov	0-2	CSKA
+25.07
+	Ufa		1-2	Rostov
+	Terek		-	Kuban
+	Dinamo		2-1	Mordovia
+26.07
+	Ural		-	Zenit
+	Rubin		-	Amkar
+	Krasnodar	-	Spartak
+27.07
+	Anzhi		-	Lokomotiv
+
+
+3 Тур 
+
+31.07
+	Kuban		-	Ufa
+01.08
+	Zenit		-	Terek
+	CSKA		-	Anzhi
+	Amkar		-	Krilya Sovetov
+02.08
+	Rostov		-	Krasnodar
+	Mordovia	-	Ural
+	Lokomotiv	-	Dinamo
+03.08
+	Spartak		-	Rubin
+
+
+4 Тур 
+
+07.08
+	Terek		-	Mordovia
+08.08
+	Ural		-	Lokomotiv
+	Anzhi		-	Dinamo
+09.08
+	CSKA		-	Amkar
+	Krilya Sovetov	-	Spartak
+	Ufa		-	Zenit
+10.08
+	Rubin		-	Rostov
+	Krasnodar	-	Kuban
+
+
+5 Тур 
+
+14.08
+	Amkar		-	Anzhi
+15.08
+	Kuban		-	Rubin
+	Zenit		-	Krasnodar
+	Spartak		-	CSKA
+16.08
+	Rostov		-	Krilya Sovetov
+	Dinamo		-	Ural
+	Lokomotiv	-	Terek
+17.08
+	Mordovia	-	Ufa
+
+
+6 Тур 
+
+21.08
+	Terek		-	Dinamo
+22.08
+	Amkar		-	Spartak
+	CSKA		-	Rostov
+	Anzhi		-	Ural
+23.08
+	Ufa		-	Lokomotiv
+	Rubin		-	Zenit
+	Krasnodar	-	Mordovia
+24.08
+	Krilya Sovetov	-	Kuban
+
+
+7 Тур 
+
+28.08
+	Rostov		-	Amkar
+	Ural		-	Terek
+29.08
+	Spartak		-	Anzhi
+	Zenit		-	Krilya Sovetov
+	Dinamo		-	Ufa
+30.08
+	Kuban		-	CSKA
+	Mordovia	-	Rubin
+	Lokomotiv	-	Krasnodar
+
+
+8 Тур 
+
+
+	Ufa		-	Ural
+	Krasnodar	-	Dinamo
+	Spartak		-	Rostov
+	CSKA		-	Zenit
+	Anzhi		-	Terek
+	Rubin		-	Lokomotiv
+	Amkar		-	Kuban
+	Krilya Sovetov	-	Mordovia
+
+
+9 Тур 
+
+
+	Terek		-	Ufa
+	Dinamo		-	Rubin
+	Ural		-	Krasnodar
+	Lokomotiv	-	Krilya Sovetov
+	Mordovia	-	CSKA
+	Rostov		-	Anzhi
+	Zenit		-	Amkar
+	Kuban		-	Spartak
+
+
+10 Тур 
+
+
+	Krilya Sovetov	-	Dinamo
+	Anzhi		-	Ufa
+	CSKA		-	Lokomotiv
+	Krasnodar	-	Terek
+	Rubin		-	Ural
+	Amkar		-	Mordovia
+	Spartak		-	Zenit
+	Rostov		-	Kuban
+
+
+11 Тур 
+
+
+	Terek		-	Rubin
+	Ural		-	Krilya Sovetov
+	Dinamo		-	CSKA
+	Lokomotiv	-	Amkar
+	Mordovia	-	Spartak
+	Zenit		-	Rostov
+	Kuban		-	Anzhi
+	Ufa		-	Krasnodar
+
+
+12 Тур 
+
+
+	Spartak		-	Lokomotiv
+	Rostov		-	Mordovia
+	Kuban		-	Zenit
+	Rubin		-	Ufa
+	Anzhi		-	Krasnodar
+	CSKA		-	Ural
+	Amkar		-	Dinamo
+	Krilya Sovetov	-	Terek
+
+
+13 Тур 
+
+
+	Zenit		-	Anzhi
+	Ural		-	Amkar
+	Dinamo		-	Spartak
+	Ufa		-	Krilya Sovetov
+	Terek		-	CSKA
+	Mordovia	-	Kuban
+	Lokomotiv	-	Rostov
+	Krasnodar	-	Rubin
+
+
+14 Тур 
+
+
+	Spartak		-	Ural
+	Amkar		-	Terek
+	Zenit		-	Mordovia
+	Krilya Sovetov	-	Krasnodar
+	Rostov		-	Dinamo
+	Anzhi		-	Rubin
+	CSKA		-	Ufa
+	Kuban		-	Lokomotiv
+
+
+15 Тур 
+
+
+	Ufa		-	Amkar
+	Krasnodar	-	CSKA
+	Ural		-	Rostov
+	Terek		-	Spartak
+	Lokomotiv	-	Zenit
+	Dinamo		-	Kuban
+	Mordovia	-	Anzhi
+	Rubin		-	Krilya Sovetov
