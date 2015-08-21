@@ -45,11 +45,11 @@
 	Krilya Sovetov	-	Rostov
 	CSKA		-	Spartak
 	Ural		-	Dinamo
+	Anzhi		-	Amkar
 	Ufa		-	Mordovia
 	Terek		-	Lokomotiv
 	Krasnodar	-	Zenit
 	Rubin		-	Kuban
-	Anzhi		-	Amkar
 
 
 20 Тур 
@@ -133,8 +133,8 @@
 26 Тур 
 
 
-	Terek		-	Krilya Sovetov
 	Zenit		-	Kuban
+	Terek		-	Krilya Sovetov
 	Dinamo		-	Amkar
 	Ural		-	CSKA
 	Krasnodar	-	Anzhi
