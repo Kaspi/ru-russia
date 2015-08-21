@@ -51,17 +51,17 @@
 4 Тур 
 
 07.08
-	Terek		-	Mordovia
-08.08
-	Ural		-	Lokomotiv
-	Anzhi		-	Dinamo
+	Terek			-	Mordovia
+08.08	
+	Ural			-	Lokomotiv
+	Anzhi			-	Dinamo
 09.08
-	CSKA		-	Amkar
+	CSKA			-	Amkar
 	Krilya Sovetov	-	Spartak
-	Ufa		-	Zenit
+	Ufa				-	Zenit
 10.08
-	Rubin		-	Rostov
-	Krasnodar	-	Kuban
+	Rubin			-	Rostov
+	Krasnodar		-	Kuban
 
 
 5 Тур 
