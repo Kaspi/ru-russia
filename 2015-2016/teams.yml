@@ -1,0 +1,31 @@
+################################
+# Russian Premier League 2015/16
+
+league: ru
+season: 2015/16
+
+
+# note: timezone for games (play_at) is *always* MSK
+
+fixtures:
+- 1-rfpl-i
+- 1-rfpl-ii
+
+
+16 Teams:
+- Amkar 			
+- Anzhi			
+- CSKA 			
+- Dynamo
+- Krasnodar
+- Krylia Sovetov
+- Kuban
+- Lokomotiv		
+- Mordovia		
+- Rostov			
+- Rubin			
+- Spartak		
+- Terek			
+- Ufa			
+- Ural			
+- Zenit			
