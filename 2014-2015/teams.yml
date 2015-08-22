@@ -1,8 +1,8 @@
 ################################
-# Russian Premier League 2015/16
+# Russian Premier League 2014/15
 
 league: ru
-season: 2015/16
+season: 2014/15
 
 
 fixtures:
@@ -11,12 +11,12 @@ fixtures:
 
 
 16 Teams:
-- Amkar 			
+- Arsenal 			
 - Anzhi			
 - CSKA 			
 - Dynamo
 - Krasnodar
-- Krylia Sovetov
+- Torpedo
 - Kuban
 - Lokomotiv		
 - Mordovia		
