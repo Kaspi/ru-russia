@@ -1,0 +1,19 @@
+####################################
+# Deutschland (de) - All Fixtures
+
+
+# - Leagues
+
+ru-russia!/leagues
+
+# - Clubs
+
+ru-russia!/teams
+
+# - Fixtures
+
+# 2015/16
+ru-russia!/2015-16/rfpl
+
+# 2014/15
+ru-russia!/2014-15/rfpl

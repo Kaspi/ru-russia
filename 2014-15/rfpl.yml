@@ -1,22 +1,22 @@
 ################################
-# Russian Premier League 2015/16
+# Russian Premier League 2014/15
 
 league: ru
-season: 2015/16
-
+season: 2014/15
+start_at: 2014-08-01
 
 fixtures:
-- 1-rfpl-i
-- 1-rfpl-ii
+- rfpl-i
+- rfpl-ii
 
 
 16 Teams:
-- Amkar 			
+- Arsenal 			
 - Anzhi			
 - CSKA 			
 - Dynamo
 - Krasnodar
-- Krylia Sovetov
+- Torpedo
 - Kuban
 - Lokomotiv		
 - Mordovia		
