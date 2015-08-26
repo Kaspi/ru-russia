@@ -1,231 +1,215 @@
 
 
-1 Тур 
+Matchday 1
 
-01.08
-	Rubin		0-4	Spartak
-02.08
-	Arsenal		0-4	Zenit
-	CSKA		4-1	Torpedo
-	Ural		2-3	Mordovia
-03.08
-	Lokomotiv	0-0	Krasnodar
-	Kuban		2-0	Ufa
-	Dinamo		7-3	Rostov
-04.08
-	Terek		4-0	Amkar
-
-
-2 Тур 
-
-08.08
-	Amkar		0-1	Ufa
-	Kuban		2-2	Rostov
-09.08
-	Mordovia	0-1	CSKA
-	Zenit		8-1	Torpedo
-	Terek		1-1	Rubin
-10.08
-	Dinamo		1-2	Spartak
-	Ural		1-1	Krasnodar
-	Arsenal		0-2	Lokomotiv
+[17.07]
+	spartak		2-2	ufa
+[18.07]
+	cska		1-0	rubin
+	rostov		1-1	terek
+[19.07]
+	anzhi		0-1	krilya sovetov
+	zenit		2-1	dinamo
+	mordovia	0-1	lokomotiv
+[20.07]
+	amkar		0-1	krasnodar
+	kuban		0-2	ural
 
 
-3 Тур 
+Matchday 2
 
-12.08
-	Torpedo		1-1	Amkar
-13.08
-	Ufa		0-2	Dinamo
-	Ural		1-2	Zenit
-	CSKA		1-0	Terek
-	Arsenal		0-0	Rubin
-14.08
-	Krasnodar	4-0	Spartak
-	Lokomotiv	2-1	Rostov
-15.08
-	Mordovia	0-0	Kuban
-
-
-4 Тур 
-
-16.08
-	Zenit		1-0	Ufa
-	Ural		0-2	Torpedo
-17.08
-	Rostov		0-2	Krasnodar
-	Rubin		1-1	Lokomotiv
-	Arsenal		1-2	Dinamo
-	CSKA		0-1	Spartak
-18.08
-	Kuban		1-0	Amkar
-	Terek		1-0	Mordovia
+[24.07]
+	krilya sovetov	0-2	cska
+[25.07]
+	ufa		1-2	rostov
+	terek		1-1	kuban
+	dinamo		2-2	mordovia
+[26.07]
+	ural		1-4	zenit
+	rubin		0-2	amkar
+	krasnodar	0-1	spartak
+[27.07]
+	anzhi		1-3	lokomotiv
 
 
-5 Тур 
+Matchday 3
 
-22.08
-	Terek		3-0	Arsenal
-23.08
-	Rubin		2-1	CSKA
-	Ufa		1-2	Spartak
-	Zenit		2-0	Amkar
-24.08
-	Dinamo		2-0	Ural
-	Torpedo		0-3	Krasnodar
-	Kuban		2-1	Lokomotiv
-	Rostov		2-1	Mordovia
-
-
-6 Тур 
-
-29.08
-	Ural		0-1	Terek
-30.08
-	Arsenal		0-1	Kuban
-	Amkar		2-0	Spartak
-	Mordovia	1-0	Torpedo
-31.08
-	Lokomotiv	0-1	Zenit
-	CSKA		6-0	Rostov
-	Krasnodar	0-2	Dinamo
-	Rubin		1-1	Ufa
+[31.07]
+	kuban		1-1	ufa
+[01.08]
+	zenit		3-0	terek
+	cska		1-0	anzhi
+	amkar		1-0	krilya sovetov
+[02.08]
+	rostov		0-0	krasnodar
+	mordovia	1-1	ural
+	lokomotiv	1-1	dinamo
+[03.08]
+	spartak		1-0	rubin
 
 
-7 Тур 
+Matchday 4
 
-13.09
-	CSKA		2-1	Arsenal
-	Lokomotiv	1-1	Mordovia
-	Rostov		1-2	Rubin
-	Zenit		3-2	Dinamo
-14.09
-	Krasnodar	0-2	Ufa
-	Spartak		3-1	Torpedo
-15.09
-	Amkar		2-1	Ural
-	Terek		0-0	Kuban
-
-
-8 Тур 
-
-19.09
-	Arsenal		0-1	Mordovia
-20.09
-	Ufa		0-1	Ural
-	Rostov		0-5	Zenit
-	Kuban		2-1	Rubin
-	Spartak		1-1	Terek
-21.09
-	CSKA		1-0	Lokomotiv
-22.09
-	Amkar		1-2	Krasnodar
-	Torpedo		1-3	Dinamo
+[07.08]
+	terek		0-0	mordovia
+[08.08]
+	ural		1-3	lokomotiv
+	anzhi		2-3	dinamo
+[09.08]
+	cska		2-0	amkar
+	krilya sovetov	0-2	spartak
+	ufa		0-1	zenit
+[10.08]
+	rubin		0-3	rostov
+	krasnodar	1-1	kuban
 
 
-9 Тур 
+Matchday 5
 
-27.09
-	Mordovia	0-2	Ufa
-	Ural		3-4	CSKA
-	Zenit		0-0	Spartak
-28.09
-	Dinamo		2-2	Kuban
-	Krasnodar	3-0	Arsenal
-	Lokomotiv	3-1	Amkar
-	Terek		2-1	Rostov
-29.09
-	Rubin		2-1	Torpedo
-
-
-10 Тур 
-
-18.10
-	CSKA		6-0	Kuban
-	Krasnodar	2-2	Zenit
-	Lokomotiv	2-1	Terek
-19.10
-	Ural		2-0	Spartak
-	Arsenal		1-1	Rostov
-20.10
-	Rubin		5-0	Mordovia
-	Ufa		1-1	Torpedo
-30.04
-	Amkar		2-0	Dinamo
+[14.08]
+	spartak		1-2	cska
+	amkar		1-1	anzhi
+[15.08]
+	kuban		0-1	rubin
+	zenit		0-2	krasnodar
+[16.08]
+	rostov		1-1	krilya sovetov
+	dinamo		1-0	ural
+	lokomotiv	0-0	terek
+[17.08]
+	mordovia	0-1	ufa
 
 
-11 Тур 
+Matchday 6
 
-24.10
-	Ural		1-0	Arsenal
-25.10
-	Amkar		2-0	Rostov
-	Torpedo		0-0	Kuban
-26.10
-	Zenit		5-0	Mordovia
-	Ufa		3-3	CSKA
-	Spartak		1-1	Lokomotiv
-27.10
-	Dinamo		0-2	Rubin
-	Krasnodar	2-0	Terek
-
-
-12 Тур 
-
-31.10
-	Rostov		1-0	Ural
-01.11
-	CSKA		0-1	Zenit
-02.11
-	Kuban		3-3	Spartak
-	Mordovia	2-1	Krasnodar
-	Lokomotiv	4-2	Dinamo
-03.11
-	Terek		1-0	Ufa
-	Torpedo		0-1	Arsenal
-	Rubin		1-1	Amkar
+[21.08]
+	terek		1-1	dinamo
+[22.08]
+	amkar		1-3	spartak
+	cska		2-1	rostov
+	anzhi		1-1	ural
+[23.08]
+	ufa		0-3	lokomotiv
+	krasnodar	0-0	mordovia
+[24.08]
+	krilya sovetov	3-0	kuban
+	rubin		1-3	zenit
 
 
-13 Тур 
+Matchday 7
 
-07.11
-	Ural		0-1	Kuban
-08.11
-	Zenit		1-3	Terek
-	Amkar		0-1	Mordovia
-	Torpedo		0-1	Lokomotiv
-09.11
-	Spartak		2-0	Arsenal
-	Dinamo		1-0	CSKA
-	Krasnodar	2-0	Rubin
-	Ufa		0-0	Rostov
-
-
-14 Тур 
-
-22.11
-	Zenit		1-0	Kuban
-	Krasnodar	2-1	CSKA
-	Ural		1-3	Rubin
-	Torpedo		2-1	Rostov
-23.11
-	Spartak		4-2	Mordovia
-	Dinamo		3-0	Terek
-	Arsenal		4-0	Amkar
-24.11
-	Lokomotiv	0-0	Ufa
+[28.08]
+	rostov		-	amkar
+	ural		-	terek
+[29.08]
+	spartak		-	anzhi
+	zenit		-	krilya sovetov
+	dinamo		-	ufa
+[30.08]
+	kuban		-	cska
+	mordovia	-	rubin
+	lokomotiv	-	krasnodar
 
 
-15 Тур 
+Matchday 8
 
-28.11
-	Rostov		1-1	Amkar
-29.11
-	Mordovia	1-0	Zenit
-	CSKA		5-0	Ufa
-	Arsenal		1-2	Ural
-	Kuban		1-1	Torpedo
-30.11
-	Lokomotiv	1-0	Spartak
-	Rubin		1-1	Dinamo
-	Terek		0-1	Krasnodar
+[]
+	ufa		-	ural
+	krasnodar	-	dinamo
+	spartak		-	rostov
+	cska		-	zenit
+	anzhi		-	terek
+	rubin		-	lokomotiv
+	amkar		-	kuban
+	krilya sovetov	-	mordovia
+
+
+Matchday 9
+
+[]
+	terek		-	ufa
+	dinamo		-	rubin
+	ural		-	krasnodar
+	lokomotiv	-	krilya sovetov
+	mordovia	-	cska
+	rostov		-	anzhi
+	zenit		-	amkar
+	kuban		-	spartak
+
+
+Matchday 10
+
+[]
+	krilya sovetov	-	dinamo
+	anzhi		-	ufa
+	cska		-	lokomotiv
+	krasnodar	-	terek
+	rubin		-	ural
+	amkar		-	mordovia
+	spartak		-	zenit
+	rostov		-	kuban
+
+
+Matchday 11
+
+[]
+	terek		-	rubin
+	ural		-	krilya sovetov
+	dinamo		-	cska
+	lokomotiv	-	amkar
+	mordovia	-	spartak
+	zenit		-	rostov
+	kuban		-	anzhi
+	ufa		-	krasnodar
+
+
+Matchday 12
+
+[]
+	spartak		-	lokomotiv
+	rostov		-	mordovia
+	kuban		-	zenit
+	rubin		-	ufa
+	anzhi		-	krasnodar
+	cska		-	ural
+	amkar		-	dinamo
+	krilya sovetov	-	terek
+
+
+Matchday 13
+
+[]
+	zenit		-	anzhi
+	ural		-	amkar
+	dinamo		-	spartak
+	ufa		-	krilya sovetov
+	terek		-	cska
+	mordovia	-	kuban
+	krasnodar	-	rubin
+	lokomotiv	-	rostov
+
+
+Matchday 14
+
+[]
+	spartak		-	ural
+	amkar		-	terek
+	zenit		-	mordovia
+	krilya sovetov	-	krasnodar
+	rostov		-	dinamo
+	anzhi		-	rubin
+	cska		-	ufa
+	kuban		-	lokomotiv
+
+
+Matchday 15
+
+[]
+	ufa		-	amkar
+	krasnodar	-	cska
+	ural		-	rostov
+	terek		-	spartak
+	lokomotiv	-	zenit
+	dinamo		-	kuban
+	mordovia	-	anzhi
+	rubin		-	krilya sovetov
