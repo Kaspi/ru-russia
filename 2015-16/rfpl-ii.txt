@@ -3,193 +3,193 @@
 Matchday 16
 
 []
-	CSKA		-	Krilya Sovetov
-	Zenit		-	Ural
-	Mordovia	-	Dinamo
-	Lokomotiv	-	Anzhi
-	Amkar		-	Rubin
-	Spartak		-	Krasnodar
-	Rostov		-	Ufa
-	Kuban		-	Terek
+	cska		-	krilya sovetov
+	zenit		-	ural
+	mordovia	-	dinamo
+	lokomotiv	-	anzhi
+	amkar		-	rubin
+	spartak		-	krasnodar
+	rostov		-	ufa
+	kuban		-	terek
 
 
 Matchday 17
 
 []
-	Anzhi		-	CSKA
-	Krilya Sovetov	-	Amkar
-	Rubin		-	Spartak
-	Krasnodar	-	Rostov
-	Ufa		-	Kuban
-	Terek		-	Zenit
-	Ural		-	Mordovia
-	Dinamo		-	Lokomotiv
+	anzhi		-	cska
+	krilya sovetov	-	amkar
+	rubin		-	spartak
+	krasnodar	-	rostov
+	ufa		-	kuban
+	terek		-	zenit
+	ural		-	mordovia
+	dinamo		-	lokomotiv
 
 
 Matchday 18
 
 []
-	Kuban		-	Krasnodar
-	Zenit		-	Ufa
-	Lokomotiv	-	Ural
-	Mordovia	-	Terek
-	Dinamo		-	Anzhi
-	Rostov		-	Rubin
-	Amkar		-	CSKA
-	Spartak		-	Krilya Sovetov
+	kuban		-	krasnodar
+	zenit		-	ufa
+	lokomotiv	-	ural
+	mordovia	-	terek
+	dinamo		-	anzhi
+	rostov		-	rubin
+	amkar		-	cska
+	spartak		-	krilya sovetov
 
 
 Matchday 19
 
 []
-	Krilya Sovetov	-	Rostov
-	CSKA		-	Spartak
-	Ural		-	Dinamo
-	Ufa		-	Mordovia
-	Terek		-	Lokomotiv
-	Krasnodar	-	Zenit
-	Rubin		-	Kuban
-	Anzhi		-	Amkar
+	krilya sovetov	-	rostov
+	cska		-	spartak
+	ural		-	dinamo
+	ufa		-	mordovia
+	terek		-	lokomotiv
+	krasnodar	-	zenit
+	rubin		-	kuban
+	anzhi		-	amkar
 
 
 Matchday 20
 
 []
-	Spartak		-	Amkar
-	Mordovia	-	Krasnodar
-	Zenit		-	Rubin
-	Dinamo		-	Terek
-	Lokomotiv	-	Ufa
-	Kuban		-	Krilya Sovetov
-	Ural		-	Anzhi
-	Rostov		-	CSKA
+	spartak		-	amkar
+	mordovia	-	krasnodar
+	zenit		-	rubin
+	dinamo		-	terek
+	lokomotiv	-	ufa
+	kuban		-	krilya sovetov
+	ural		-	anzhi
+	rostov		-	cska
 
 
 Matchday 21
 
 []
-	Ufa		-	Dinamo
-	Krasnodar	-	Lokomotiv
-	Rubin		-	Mordovia
-	Krilya Sovetov	-	Zenit
-	CSKA		-	Kuban
-	Amkar		-	Rostov
-	Anzhi		-	Spartak
-	Terek		-	Ural
+	ufa		-	dinamo
+	krasnodar	-	lokomotiv
+	rubin		-	mordovia
+	krilya sovetov	-	zenit
+	cska		-	kuban
+	amkar		-	rostov
+	anzhi		-	spartak
+	terek		-	ural
 
 
 Matchday 22
 
 []
-	Zenit		-	CSKA
-	Kuban		-	Amkar
-	Rostov		-	Spartak
-	Ural		-	Ufa
-	Dinamo		-	Krasnodar
-	Lokomotiv	-	Rubin
-	Terek		-	Anzhi
-	Mordovia	-	Krilya Sovetov
+	zenit		-	cska
+	kuban		-	amkar
+	rostov		-	spartak
+	ural		-	ufa
+	dinamo		-	krasnodar
+	lokomotiv	-	rubin
+	terek		-	anzhi
+	mordovia	-	krilya sovetov
 
 
 Matchday 23
 
 []
-	Anzhi		-	Rostov
-	Spartak		-	Kuban
-	Amkar		-	Zenit
-	Ufa		-	Terek
-	Krilya Sovetov	-	Lokomotiv
-	CSKA		-	Mordovia
-	Krasnodar	-	Ural
-	Rubin		-	Dinamo
+	anzhi		-	rostov
+	spartak		-	kuban
+	amkar		-	zenit
+	ufa		-	terek
+	krilya sovetov	-	lokomotiv
+	cska		-	mordovia
+	krasnodar	-	ural
+	rubin		-	dinamo
 
 
 Matchday 24
 
 []
-	Kuban		-	Rostov
-	Mordovia	-	Amkar
-	Zenit		-	Spartak
-	Lokomotiv	-	CSKA
-	Ufa		-	Anzhi
-	Dinamo		-	Krilya Sovetov
-	Ural		-	Rubin
-	Terek		-	Krasnodar
+	kuban		-	rostov
+	mordovia	-	amkar
+	zenit		-	spartak
+	lokomotiv	-	cska
+	ufa		-	anzhi
+	dinamo		-	krilya sovetov
+	ural		-	rubin
+	terek		-	krasnodar
 
 
 Matchday 25
 
 []
-	Rostov		-	Zenit
-	Spartak		-	Mordovia
-	Anzhi		-	Kuban
-	Amkar		-	Lokomotiv
-	CSKA		-	Dinamo
-	Krasnodar	-	Ufa
-	Rubin		-	Terek
-	Krilya Sovetov	-	Ural
+	rostov		-	zenit
+	spartak		-	mordovia
+	anzhi		-	kuban
+	amkar		-	lokomotiv
+	cska		-	dinamo
+	krasnodar	-	ufa
+	rubin		-	terek
+	krilya sovetov	-	ural
 
 
 Matchday 26
 
 []
-	Terek		-	Krilya Sovetov
-	Zenit		-	Kuban
-	Dinamo		-	Amkar
-	Ural		-	CSKA
-	Krasnodar	-	Anzhi
-	Ufa		-	Rubin
-	Mordovia	-	Rostov
-	Lokomotiv	-	Spartak
+	terek		-	krilya sovetov
+	zenit		-	kuban
+	dinamo		-	amkar
+	ural		-	cska
+	krasnodar	-	anzhi
+	ufa		-	rubin
+	mordovia	-	rostov
+	lokomotiv	-	spartak
 
 
 Matchday 27
 
 []
-	Anzhi		-	Zenit
-	Kuban		-	Mordovia
-	Rostov		-	Lokomotiv
-	Spartak		-	Dinamo
-	Amkar		-	Ural
-	CSKA		-	Terek
-	Krilya Sovetov	-	Ufa
-	Rubin		-	Krasnodar
+	anzhi		-	zenit
+	kuban		-	mordovia
+	rostov		-	lokomotiv
+	spartak		-	dinamo
+	amkar		-	ural
+	cska		-	terek
+	krilya sovetov	-	ufa
+	rubin		-	krasnodar
 
 
 Matchday 28
 
 []
-	Terek		-	Amkar
-	Ural		-	Spartak
-	Rubin		-	Anzhi
-	Ufa		-	CSKA
-	Mordovia	-	Zenit
-	Dinamo		-	Rostov
-	Lokomotiv	-	Kuban
-	Krasnodar	-	Krilya Sovetov
+	terek		-	amkar
+	ural		-	spartak
+	rubin		-	anzhi
+	ufa		-	cska
+	mordovia	-	zenit
+	dinamo		-	rostov
+	lokomotiv	-	kuban
+	krasnodar	-	krilya sovetov
 
 
 Matchday 29
 
 []
-	Anzhi		-	Mordovia
-	Rostov		-	Ural
-	Zenit		-	Lokomotiv
-	Kuban		-	Dinamo
-	Krilya Sovetov	-	Rubin
-	Spartak		-	Terek
-	CSKA		-	Krasnodar
-	Amkar		-	Ufa
+	anzhi		-	mordovia
+	rostov		-	ural
+	zenit		-	lokomotiv
+	kuban		-	dinamo
+	krilya sovetov	-	rubin
+	spartak		-	terek
+	cska		-	krasnodar
+	amkar		-	ufa
 
 
 Matchday 30
 
 []
-	Ural		-	Kuban
-	Dinamo		-	Zenit
-	Lokomotiv	-	Mordovia
-	Terek		-	Rostov
-	Ufa		-	Spartak
-	Krilya Sovetov	-	Anzhi
-	Krasnodar	-	Amkar
-	Rubin		-	CSKA
+	ural		-	kuban
+	dinamo		-	zenit
+	lokomotiv	-	mordovia
+	terek		-	rostov
+	ufa		-	spartak
+	krilya sovetov	-	anzhi
+	krasnodar	-	amkar
+	rubin		-	cska
