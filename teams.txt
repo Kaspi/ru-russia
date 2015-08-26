@@ -1,18 +1,18 @@
-arsenal,		Arsenal Tula| Арсенал,					city:Tula  		
-amkar, 			Amkar Perm|Амкар, 						city:Perm  		
-anzhi,			Anzhi Makhachkala|Анжи, 				city:Makhachkala
-CSKA, 			CSKA Moscow|ЦСКА, 						city:Moscow	
-dynamo,			Dynamo Moscow|Динамо, 					city:Moscow		
-krasnodar,		Krasnodar Krasnodar|Краснодар, 			city:Krasnodar
-krylia sovetov,	Krylia Sovetov Samara|Крылья Советов,	city:Samara		
-kuban, 			Kuban Krasnodar|Кубань, 				city:Krasnodar
-lokomotiv,		Lokomotiv Moscow|Локомотив, 			city:Moscow		
-mordovia,		Mordovia Saransk|Мордовия,	 			city:Saransk
-rostov,			Rostov Rostov-on-Don|Ростов, 			city:Rostov-on-Don
-rubin,			Rubin Kazan|Рубин, 						city:Kazan	
-spartak,		Spartak	Moscow|Спартак, 				city:Moscow
-terek,			Terek Grozny|Терек, 					city:Grozny
-torpedo,		Torpedo Moscow|Торпедо,					city:Moscow
-ufa,			Ufa Ufa|Уфа, 							city:Ufa		
-ural,			Ural Yekaterinburg |Урал, 				city:Yekaterinburg
-zenit,			Zenit St. Petersburg|Зенит, 			city:St. Petersburg
+arsenal,Arsenal Tula,city:Tula
+amkar,Amkar Perm,city:Perm
+anzhi,Anzhi Makhachkala,city:Makhachkala
+CSKA,CSKA Moscow,city:Moscow
+dynamo,Dynamo Moscow,city:Moscow
+krasnodar,Krasnodar Krasnodar,city:Krasnodar
+krylia sovetov,Krylia Sovetov Samara,city:Samara
+kuban,Kuban Krasnodar,city:Krasnodar
+lokomotiv,Lokomotiv Moscow,city:Moscow
+mordovia,Mordovia Saransk,city:Saransk
+rostov,Rostov Rostov-on-Don,city:Rostov-on-Don
+rubin,Rubin Kazan,city:Kazan
+spartak,Spartak Moscow,city:Moscow
+terek,Terek Grozny,city:Grozny
+torpedo,Torpedo Moscow,city:Moscow
+ufa,Ufa Ufa,city:Ufa
+ural,Ural Yekaterinburg,city:Yekaterinburg
+zenit,Zenit St.Petersburg,city:St.Petersburg
