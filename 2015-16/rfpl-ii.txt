@@ -1,8 +1,8 @@
 
 
-16 Тур 
+Matchday 16
 
-
+[]
 	CSKA		-	Krilya Sovetov
 	Zenit		-	Ural
 	Mordovia	-	Dinamo
@@ -13,9 +13,9 @@
 	Kuban		-	Terek
 
 
-17 Тур 
+Matchday 17
 
-
+[]
 	Anzhi		-	CSKA
 	Krilya Sovetov	-	Amkar
 	Rubin		-	Spartak
@@ -26,9 +26,9 @@
 	Dinamo		-	Lokomotiv
 
 
-18 Тур 
+Matchday 18
 
-
+[]
 	Kuban		-	Krasnodar
 	Zenit		-	Ufa
 	Lokomotiv	-	Ural
@@ -39,22 +39,22 @@
 	Spartak		-	Krilya Sovetov
 
 
-19 Тур 
+Matchday 19
 
-
+[]
 	Krilya Sovetov	-	Rostov
 	CSKA		-	Spartak
 	Ural		-	Dinamo
-	Anzhi		-	Amkar
 	Ufa		-	Mordovia
 	Terek		-	Lokomotiv
 	Krasnodar	-	Zenit
 	Rubin		-	Kuban
+	Anzhi		-	Amkar
 
 
-20 Тур 
+Matchday 20
 
-
+[]
 	Spartak		-	Amkar
 	Mordovia	-	Krasnodar
 	Zenit		-	Rubin
@@ -65,9 +65,9 @@
 	Rostov		-	CSKA
 
 
-21 Тур 
+Matchday 21
 
-
+[]
 	Ufa		-	Dinamo
 	Krasnodar	-	Lokomotiv
 	Rubin		-	Mordovia
@@ -78,9 +78,9 @@
 	Terek		-	Ural
 
 
-22 Тур 
+Matchday 22
 
-
+[]
 	Zenit		-	CSKA
 	Kuban		-	Amkar
 	Rostov		-	Spartak
@@ -91,9 +91,9 @@
 	Mordovia	-	Krilya Sovetov
 
 
-23 Тур 
+Matchday 23
 
-
+[]
 	Anzhi		-	Rostov
 	Spartak		-	Kuban
 	Amkar		-	Zenit
@@ -104,9 +104,9 @@
 	Rubin		-	Dinamo
 
 
-24 Тур 
+Matchday 24
 
-
+[]
 	Kuban		-	Rostov
 	Mordovia	-	Amkar
 	Zenit		-	Spartak
@@ -117,9 +117,9 @@
 	Terek		-	Krasnodar
 
 
-25 Тур 
+Matchday 25
 
-
+[]
 	Rostov		-	Zenit
 	Spartak		-	Mordovia
 	Anzhi		-	Kuban
@@ -130,11 +130,11 @@
 	Krilya Sovetov	-	Ural
 
 
-26 Тур 
+Matchday 26
 
-
-	Zenit		-	Kuban
+[]
 	Terek		-	Krilya Sovetov
+	Zenit		-	Kuban
 	Dinamo		-	Amkar
 	Ural		-	CSKA
 	Krasnodar	-	Anzhi
@@ -143,9 +143,9 @@
 	Lokomotiv	-	Spartak
 
 
-27 Тур 
+Matchday 27
 
-
+[]
 	Anzhi		-	Zenit
 	Kuban		-	Mordovia
 	Rostov		-	Lokomotiv
@@ -156,9 +156,9 @@
 	Rubin		-	Krasnodar
 
 
-28 Тур 
+Matchday 28
 
-
+[]
 	Terek		-	Amkar
 	Ural		-	Spartak
 	Rubin		-	Anzhi
@@ -169,9 +169,9 @@
 	Krasnodar	-	Krilya Sovetov
 
 
-29 Тур 
+Matchday 29
 
-
+[]
 	Anzhi		-	Mordovia
 	Rostov		-	Ural
 	Zenit		-	Lokomotiv
@@ -182,9 +182,9 @@
 	Amkar		-	Ufa
 
 
-30 Тур 
+Matchday 30
 
-
+[]
 	Ural		-	Kuban
 	Dinamo		-	Zenit
 	Lokomotiv	-	Mordovia
