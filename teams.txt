@@ -1,18 +1,18 @@
-Arsenal,		Arsenal Tula| Арсенал,					city:Tula,  		wiki:,
-Amkar, 			Amkar Perm|Амкар, 						city:Perm,  		wiki:,
-Anzhi,			Anzhi Makhachkala|Анжи, 				city:Makhachkala, 	wiki:,
-CSKA, 			CSKA Moscow|ЦСКА, 						city:Moscow,		wiki:,
-Dynamo,			Dynamo Moscow|Динамо, 					city:Moscow,		wiki:,
-Krasnodar,		Krasnodar Krasnodar|Краснодар, 			city:Krasnodar,		wiki:,
-Krylia Sovetov,	Krylia Sovetov Samara|Крылья Советов,	city:Samara,		wiki:,
-Kuban, 			Kuban Krasnodar|Кубань, 				city:Krasnodar,		wiki:,
-Lokomotiv,		Lokomotiv Moscow|Локомотив, 			city:Moscow,		wiki:,
-Mordovia,		Mordovia Saransk|Мордовия,	 			city:Saransk,		wiki:,
-Rostov,			Rostov Rostov-on-Don|Ростов, 			city:Rostov-on-Don,	wiki:,
-Rubin,			Rubin Kazan|Рубин, 						city:Kazan,			wiki:,
-Spartak,		Spartak	Moscow|Спартак, 				city:Moscow,		wiki:,
-Terek,			Terek Grozny|Терек, 					city:Grozny,		wiki:,
-Torpedo,		Torpedo Moscow|Торпедо,					city:Moscow,		wiki:,
-Ufa,			Ufa Ufa|Уфа, 							city:Ufa,			wiki:,
-Ural,			Ural Yekaterinburg |Урал, 				city:Yekaterinburg,	wiki:,
-Zenit,			Zenit St. Petersburg|Зенит, 			city:St. Petersburg,wiki:,
+arsenal,		Arsenal Tula| Арсенал,					city:Tula  		
+amkar, 			Amkar Perm|Амкар, 						city:Perm  		
+anzhi,			Anzhi Makhachkala|Анжи, 				city:Makhachkala
+CSKA, 			CSKA Moscow|ЦСКА, 						city:Moscow	
+dynamo,			Dynamo Moscow|Динамо, 					city:Moscow		
+krasnodar,		Krasnodar Krasnodar|Краснодар, 			city:Krasnodar
+krylia sovetov,	Krylia Sovetov Samara|Крылья Советов,	city:Samara		
+kuban, 			Kuban Krasnodar|Кубань, 				city:Krasnodar
+lokomotiv,		Lokomotiv Moscow|Локомотив, 			city:Moscow		
+mordovia,		Mordovia Saransk|Мордовия,	 			city:Saransk
+rostov,			Rostov Rostov-on-Don|Ростов, 			city:Rostov-on-Don
+rubin,			Rubin Kazan|Рубин, 						city:Kazan	
+spartak,		Spartak	Moscow|Спартак, 				city:Moscow
+terek,			Terek Grozny|Терек, 					city:Grozny
+torpedo,		Torpedo Moscow|Торпедо,					city:Moscow
+ufa,			Ufa Ufa|Уфа, 							city:Ufa		
+ural,			Ural Yekaterinburg |Урал, 				city:Yekaterinburg
+zenit,			Zenit St. Petersburg|Зенит, 			city:St. Petersburg
