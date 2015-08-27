@@ -29,9 +29,9 @@ Matchday 17
 Matchday 18
 
 []
-  Kuban               -  Krasnodar
-  Zenit               -  Ufa
   Lokomotiv           -  Ural
+  Zenit               -  Ufa
+  Kuban               -  Krasnodar
   Mordovia            -  Terek
   Dinamo              -  Anzhi
   Rostov              -  Rubin
@@ -42,14 +42,14 @@ Matchday 18
 Matchday 19
 
 []
-  Krilya Sovetov      -  Rostov
-  CSKA                -  Spartak
-  Ural                -  Dinamo
   Ufa                 -  Mordovia
   Terek               -  Lokomotiv
-  Krasnodar           -  Zenit
-  Rubin               -  Kuban
   Anzhi               -  Amkar
+  Rubin               -  Kuban
+  Krilya Sovetov      -  Rostov
+  CSKA                -  Spartak
+  Krasnodar           -  Zenit
+  Ural                -  Dinamo
 
 
 Matchday 20
