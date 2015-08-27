@@ -3,7 +3,7 @@
 Matchday 16
 
 []
-  CSKA                -  Krilya Sovetov
+  CSKA                -  Krylia Sovetov
   Zenit               -  Ural
   Mordovia            -  Dinamo
   Lokomotiv           -  Anzhi
@@ -17,7 +17,7 @@ Matchday 17
 
 []
   Anzhi               -  CSKA
-  Krilya Sovetov      -  Amkar
+  Krylia Sovetov      -  Amkar
   Rubin               -  Spartak
   Krasnodar           -  Rostov
   Ufa                 -  Kuban
@@ -36,13 +36,13 @@ Matchday 18
   Dinamo              -  Anzhi
   Rostov              -  Rubin
   Amkar               -  CSKA
-  Spartak             -  Krilya Sovetov
+  Spartak             -  Krylia Sovetov
 
 
 Matchday 19
 
 []
-  Krilya Sovetov      -  Rostov
+  Krylia Sovetov      -  Rostov
   CSKA                -  Spartak
   Ural                -  Dinamo
   Ufa                 -  Mordovia
@@ -60,7 +60,7 @@ Matchday 20
   Zenit               -  Rubin
   Dinamo              -  Terek
   Lokomotiv           -  Ufa
-  Kuban               -  Krilya Sovetov
+  Kuban               -  Krylia Sovetov
   Ural                -  Anzhi
   Rostov              -  CSKA
 
@@ -71,7 +71,7 @@ Matchday 21
   Ufa                 -  Dinamo
   Krasnodar           -  Lokomotiv
   Rubin               -  Mordovia
-  Krilya Sovetov      -  Zenit
+  Krylia Sovetov      -  Zenit
   CSKA                -  Kuban
   Amkar               -  Rostov
   Anzhi               -  Spartak
@@ -88,7 +88,7 @@ Matchday 22
   Dinamo              -  Krasnodar
   Lokomotiv           -  Rubin
   Terek               -  Anzhi
-  Mordovia            -  Krilya Sovetov
+  Mordovia            -  Krylia Sovetov
 
 
 Matchday 23
@@ -98,7 +98,7 @@ Matchday 23
   Spartak             -  Kuban
   Amkar               -  Zenit
   Ufa                 -  Terek
-  Krilya Sovetov      -  Lokomotiv
+  Krylia Sovetov      -  Lokomotiv
   CSKA                -  Mordovia
   Krasnodar           -  Ural
   Rubin               -  Dinamo
@@ -112,7 +112,7 @@ Matchday 24
   Zenit               -  Spartak
   Lokomotiv           -  CSKA
   Ufa                 -  Anzhi
-  Dinamo              -  Krilya Sovetov
+  Dinamo              -  Krylia Sovetov
   Ural                -  Rubin
   Terek               -  Krasnodar
 
@@ -127,14 +127,14 @@ Matchday 25
   CSKA                -  Dinamo
   Krasnodar           -  Ufa
   Rubin               -  Terek
-  Krilya Sovetov      -  Ural
+  Krylia Sovetov      -  Ural
 
 
 Matchday 26
 
 []
+  Terek               -  Krylia Sovetov
   Zenit               -  Kuban
-  Terek               -  Krilya Sovetov
   Dinamo              -  Amkar
   Ural                -  CSKA
   Krasnodar           -  Anzhi
@@ -152,7 +152,7 @@ Matchday 27
   Spartak             -  Dinamo
   Amkar               -  Ural
   CSKA                -  Terek
-  Krilya Sovetov      -  Ufa
+  Krylia Sovetov      -  Ufa
   Rubin               -  Krasnodar
 
 
@@ -166,7 +166,7 @@ Matchday 28
   Mordovia            -  Zenit
   Dinamo              -  Rostov
   Lokomotiv           -  Kuban
-  Krasnodar           -  Krilya Sovetov
+  Krasnodar           -  Krylia Sovetov
 
 
 Matchday 29
@@ -176,7 +176,7 @@ Matchday 29
   Rostov              -  Ural
   Zenit               -  Lokomotiv
   Kuban               -  Dinamo
-  Krilya Sovetov      -  Rubin
+  Krylia Sovetov      -  Rubin
   Spartak             -  Terek
   CSKA                -  Krasnodar
   Amkar               -  Ufa
@@ -190,6 +190,6 @@ Matchday 30
   Lokomotiv           -  Mordovia
   Terek               -  Rostov
   Ufa                 -  Spartak
-  Krilya Sovetov      -  Anzhi
+  Krylia Sovetov      -  Anzhi
   Krasnodar           -  Amkar
   Rubin               -  CSKA

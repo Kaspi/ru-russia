@@ -8,7 +8,7 @@ Matchday 1
   CSKA                1-0  Rubin
   Rostov              1-1  Terek
 [Sat. 19.07.]
-  Anzhi               0-1  Krilya Sovetov
+  Anzhi               0-1  Krylia Sovetov
   Zenit               2-1  Dinamo
   Mordovia            0-1  Lokomotiv
 [Sun. 20.07.]
@@ -19,7 +19,7 @@ Matchday 1
 Matchday 2
 
 [Thu. 24.07.]
-  Krilya Sovetov      0-2  CSKA
+  Krylia Sovetov      0-2  CSKA
 [Fri. 25.07.]
   Ufa                 1-2  Rostov
   Terek               1-1  Kuban
@@ -39,7 +39,7 @@ Matchday 3
 [Fri. 01.08.]
   Zenit               3-0  Terek
   CSKA                1-0  Anzhi
-  Amkar               1-0  Krilya Sovetov
+  Amkar               1-0  Krylia Sovetov
 [Sat. 02.08.]
   Rostov              0-0  Krasnodar
   Mordovia            1-1  Ural
@@ -57,7 +57,7 @@ Matchday 4
   Anzhi               2-3  Dinamo
 [Sat. 09.08.]
   CSKA                2-0  Amkar
-  Krilya Sovetov      0-2  Spartak
+  Krylia Sovetov      0-2  Spartak
   Ufa                 0-1  Zenit
 [Sun. 10.08.]
   Rubin               0-3  Rostov
@@ -73,7 +73,7 @@ Matchday 5
   Kuban               0-1  Rubin
   Zenit               0-2  Krasnodar
 [Sat. 16.08.]
-  Rostov              1-1  Krilya Sovetov
+  Rostov              1-1  Krylia Sovetov
   Dinamo              1-0  Ural
   Lokomotiv           0-0  Terek
 [Sun. 17.08.]
@@ -92,7 +92,7 @@ Matchday 6
   Ufa                 0-3  Lokomotiv
   Krasnodar           0-0  Mordovia
 [Sun. 24.08.]
-  Krilya Sovetov      3-0  Kuban
+  Krylia Sovetov      3-0  Kuban
   Rubin               1-3  Zenit
 
 
@@ -103,7 +103,7 @@ Matchday 7
   Ural                -  Terek
 [Fri. 29.08.]
   Spartak             -  Anzhi
-  Zenit               -  Krilya Sovetov
+  Zenit               -  Krylia Sovetov
   Dinamo              -  Ufa
 [Sat. 30.08.]
   Kuban               -  CSKA
@@ -117,7 +117,7 @@ Matchday 8
   Ufa                 -  Ural
   Krasnodar           -  Dinamo
   Spartak             -  Rostov
-  Krilya Sovetov      -  Mordovia
+  Krylia Sovetov      -  Mordovia
   Anzhi               -  Terek
   Rubin               -  Lokomotiv
   Amkar               -  Kuban
@@ -130,7 +130,7 @@ Matchday 9
   Terek               -  Ufa
   Dinamo              -  Rubin
   Ural                -  Krasnodar
-  Lokomotiv           -  Krilya Sovetov
+  Lokomotiv           -  Krylia Sovetov
   Mordovia            -  CSKA
   Rostov              -  Anzhi
   Zenit               -  Amkar
@@ -140,21 +140,21 @@ Matchday 9
 Matchday 10
 
 []
-  Krilya Sovetov      -  Dinamo
+  Krylia Sovetov      -  Dinamo
   Anzhi               -  Ufa
-  Rostov              -  Kuban
+  CSKA                -  Lokomotiv
   Krasnodar           -  Terek
-  Rubin               -  Ural
+  Rostov              -  Kuban
   Amkar               -  Mordovia
   Spartak             -  Zenit
-  CSKA                -  Lokomotiv
+  Rubin               -  Ural
 
 
 Matchday 11
 
 []
   Terek               -  Rubin
-  Ural                -  Krilya Sovetov
+  Ural                -  Krylia Sovetov
   Dinamo              -  CSKA
   Lokomotiv           -  Amkar
   Mordovia            -  Spartak
@@ -173,7 +173,7 @@ Matchday 12
   Anzhi               -  Krasnodar
   CSKA                -  Ural
   Amkar               -  Dinamo
-  Krilya Sovetov      -  Terek
+  Krylia Sovetov      -  Terek
 
 
 Matchday 13
@@ -182,7 +182,7 @@ Matchday 13
   Zenit               -  Anzhi
   Ural                -  Amkar
   Dinamo              -  Spartak
-  Ufa                 -  Krilya Sovetov
+  Ufa                 -  Krylia Sovetov
   Terek               -  CSKA
   Mordovia            -  Kuban
   Lokomotiv           -  Rostov
@@ -195,7 +195,7 @@ Matchday 14
   Spartak             -  Ural
   Amkar               -  Terek
   Zenit               -  Mordovia
-  Krilya Sovetov      -  Krasnodar
+  Krylia Sovetov      -  Krasnodar
   Rostov              -  Dinamo
   Anzhi               -  Rubin
   CSKA                -  Ufa
@@ -212,4 +212,4 @@ Matchday 15
   Lokomotiv           -  Zenit
   Dinamo              -  Kuban
   Mordovia            -  Anzhi
-  Rubin               -  Krilya Sovetov
+  Rubin               -  Krylia Sovetov
