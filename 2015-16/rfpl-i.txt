@@ -99,12 +99,12 @@ Matchday 6
 Matchday 7
 
 [Thu. 28.08.]
-  Rostov              -  Amkar
-  Ural                -  Terek
+  Rostov              1-0  Amkar
+  Ural                3-3  Terek
 [Fri. 29.08.]
-  Spartak             -  Anzhi
-  Zenit               -  Krylia Sovetov
-  Dinamo              -  Ufa
+  Spartak             0-1  Anzhi
+  Zenit               1-3  Krylia Sovetov
+  Dinamo              2-0  Ufa
 [Sat. 30.08.]
   Kuban               -  CSKA
   Mordovia            -  Rubin
@@ -117,11 +117,11 @@ Matchday 8
   Ufa                 -  Ural
   Krasnodar           -  Dinamo
   Spartak             -  Rostov
-  Krylia Sovetov      -  Mordovia
+  CSKA                -  Zenit
   Anzhi               -  Terek
   Rubin               -  Lokomotiv
   Amkar               -  Kuban
-  CSKA                -  Zenit
+  Krylia Sovetov      -  Mordovia
 
 
 Matchday 9
