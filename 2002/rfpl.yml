@@ -1,0 +1,29 @@
+################################
+# Russian Premier League 2002
+
+league: ru
+season: 2002
+start_at: 2002-03-08
+
+fixtures:
+- rfpl-i
+- rfpl-ii
+
+
+16 Teams:
+  - Shinnik             
+  - Saturn
+  - Spartak             
+  - Rostov
+  - Krylia Sovetov      
+  - Uralan
+  - Lokomotiv           
+  - Alania
+  - Anzhi               
+  - Zenit
+  - Rotor               
+  - Dinamo
+  - CSKA                
+  - Moskva
+  - Torpedo             
+  - Sokol

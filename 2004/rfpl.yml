@@ -1,0 +1,29 @@
+################################
+# Russian Premier League 2004
+
+league: ru
+season: 2004
+start_at: 2004-03-12
+
+fixtures:
+- rfpl-i
+- rfpl-ii
+
+
+16 Teams:
+  - CSKA                
+  - Moskva
+  - Krylia Sovetov      
+  - Saturn
+  - Alania              
+  - Rubin
+  - Zenit               
+  - Rotor
+  - Spartak             
+  - Dinamo
+  - Rostov              
+  - Torpedo
+  - Kuban               
+  - Amkar
+  - Lokomotiv           
+  - Shinnik

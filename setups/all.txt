@@ -12,8 +12,44 @@ ru-russia!/teams
 
 # - Fixtures
 
-# 2015/16
-ru-russia!/2015-16/rfpl
+# 2002
+ru-russia!/2002/rfpl
+
+# 2003
+ru-russia!/2003/rfpl
+
+# 2004
+ru-russia!/2004/rfpl
+
+# 2005
+ru-russia!/2005/rfpl
+
+# 2006
+ru-russia!/2006/rfpl
+
+# 2007
+ru-russia!/2007/rfpl
+
+# 2008
+ru-russia!/2008/rfpl
+
+# 2009
+ru-russia!/2009/rfpl
+
+# 2010
+ru-russia!/2010/rfpl
+
+# 2011/12
+ru-russia!/2011-12/rfpl
+
+# 2012/13
+ru-russia!/2012-13/rfpl
+
+# 2013/14
+ru-russia!/2013-14/rfpl
 
 # 2014/15
 ru-russia!/2014-15/rfpl
+
+# 2015/16
+ru-russia!/2015-16/rfpl

@@ -10,20 +10,22 @@ fixtures:
 - rfpl-ii
 
 
-16 Teams:
-- Arsenal 
-- Amkar
-- CSKA 
-- Dynamo
+18 Teams:
+- Dinamo              
 - Krasnodar
-- Torpedo
-- Kuban
-- Lokomotiv
-- Mordovia
-- Rostov
+- Kuban               
+- Arsenal
+- Rostov              
+- CSKA
+- Ufa                 
 - Rubin
-- Spartak
-- Terek
-- Ufa
+- Spartak             
+- Amkar
+- Terek               
 - Ural
-- Zenit
+- Torpedo             
+- Mordovia
+- Zenit               
+- Lokomotiv
+- Tom
+- Tosno

@@ -117,11 +117,11 @@ Matchday 8
   Ufa                 -  Ural
   Krasnodar           -  Dinamo
   Spartak             -  Rostov
-  CSKA                -  Zenit
+  Krylia Sovetov      -  Mordovia
   Anzhi               -  Terek
   Rubin               -  Lokomotiv
   Amkar               -  Kuban
-  Krylia Sovetov      -  Mordovia
+  CSKA                -  Zenit
 
 
 Matchday 9
@@ -141,12 +141,12 @@ Matchday 10
 
 []
   Krylia Sovetov      -  Dinamo
+  Spartak             -  Zenit
   Anzhi               -  Ufa
   CSKA                -  Lokomotiv
   Krasnodar           -  Terek
   Rubin               -  Ural
   Amkar               -  Mordovia
-  Spartak             -  Zenit
   Rostov              -  Kuban
 
 
