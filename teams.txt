@@ -1,18 +1,35 @@
 arsenal,Arsenal|Arsenal Tula,city:Tula
 amkar,Amkar|Amkar Perm,city:Perm
 anzhi,Anzhi|Anzhi Makhachkala,city:Makhachkala
-cska,CSKA|CSKA Moscow,city:Moscow
-dynamo,Dynamo|Dinamo|Dynamo Moscow|Dinamo Moscow,city:Moscow
+cska,CSKA|PFK TsSKA|CSKA Moscow,city:Moscow
+dynamo,Dynamo|Dinamo-Moskva|Dinamo|Dynamo Moscow|Dinamo Moscow,city:Moscow
 krasnodar,Krasnodar|Krasnodar Krasnodar,city:Krasnodar
-krylia,Krylia Sovetov|Krylia Sovetov Samara,city:Samara
-kuban,Kuban|Kuban Krasnodar,city:Krasnodar
+krylia,Krylia Sovetov|Kryl'ia Sovetov|Krylia Sovetov Samara,city:Samara
+kuban,Kuban|Kuban'|Kuban Krasnodar,city:Krasnodar
 lokomotiv,Lokomotiv|Lokomotiv Moscow,city:Moscow
 mordovia,Mordovia|Mordovia Saransk,city:Saransk
 rostov,Rostov|Rostov Rostov-on-Don,city:Rostov-on-Don
 rubin,Rubin|Rubin Kazan,city:Kazan
-spartak,Spartak|Spartak Moscow,city:Moscow
+spartak,Spartak|Spartak-Moskva|Spartak Moscow,city:Moscow
 terek,Terek|Terek Grozny,city:Grozny
 torpedo,Torpedo|Torpedo Moscow,city:Moscow
 ufa,Ufa|Ufa Ufa,city:Ufa
 ural,Ural|Ural Yekaterinburg,city:Yekaterinburg
 zenit,Zenit|Zenit St.Petersburg,city:St.Petersburg
+uralan, Uralan, city: Elista
+moskva, Moskva, city: Moscow
+rotor, Rotor, city: Volgograd
+saturn, Saturn, city: Ramenskoe
+chernomorets,Chernomorets (N)|Chernomorets, city: Novorosisk
+alaniia,Alania, city: Vladikovkaz
+shinnik,Shinnik, city: Yaroslavl
+tom, Tom| Tom'| Tom Tomsk, city:Tomsk
+luch, Luch| Luch-Energiia|Luch Energia Vladivostok, city:Vladivostok
+nalchik, spartak-nal'chik| Spartak Nalchik| Nalchik, city: Nalchik
+khimki, Khimki, city: Khimki
+sibir, Sibir'| Sibir, city: Novosibirsk
+sokol, Sokol, city: Saratov
+volga, Volga| Volga Nizhnii Novgorod, city: Nizhny Novgorod
+ska, SKA-Energiia| SKA Energia, city: Khabarovsk
+tosno, Tosno, city: Tosno
+nizhnii, Nizhnii Novgorod | Nizhny Novgorod, city: Nizhny Novgorod

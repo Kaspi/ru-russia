@@ -1,0 +1,29 @@
+################################
+# Russian Premier League 2003
+
+league: ru
+season: 2003
+start_at: 2003-03-15
+
+fixtures:
+- rfpl-i
+- rfpl-ii
+
+
+16 Teams:
+  - Uralan              
+  - Lokomotiv
+  - Moskva              
+  - Spartak
+  - Krylia Sovetov      
+  - Rotor
+  - Zenit               
+  - Saturn
+  - Torpedo             
+  - Rostov
+  - CSKA                
+  - Rubin
+  - Alania              
+  - Dinamo
+  - Shinnik             
+  - Chernomorets 
