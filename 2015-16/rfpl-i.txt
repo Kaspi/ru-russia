@@ -2,110 +2,110 @@
 
 Matchday 1
 
-[Thu. 17.07.]
+[Sun. 17.07.]
   Spartak             2-2  Ufa
-[Fri. 18.07.]
+[Mon. 18.07.]
   CSKA                1-0  Rubin
   Rostov              1-1  Terek
-[Sat. 19.07.]
+[Tue. 19.07.]
   Anzhi               0-1  Krylia Sovetov
   Zenit               2-1  Dinamo
   Mordovia            0-1  Lokomotiv
-[Sun. 20.07.]
+[Wed. 20.07.]
   Amkar               0-1  Krasnodar
   Kuban               0-2  Ural
 
 
 Matchday 2
 
-[Thu. 24.07.]
+[Sun. 24.07.]
   Krylia Sovetov      0-2  CSKA
-[Fri. 25.07.]
+[Mon. 25.07.]
   Ufa                 1-2  Rostov
   Terek               1-1  Kuban
   Dinamo              2-2  Mordovia
-[Sat. 26.07.]
+[Tue. 26.07.]
   Ural                1-4  Zenit
   Rubin               0-2  Amkar
   Krasnodar           0-1  Spartak
-[Sun. 27.07.]
+[Wed. 27.07.]
   Anzhi               1-3  Lokomotiv
 
 
 Matchday 3
 
-[Thu. 31.07.]
+[Sun. 31.07.]
   Kuban               1-1  Ufa
-[Fri. 01.08.]
+[Mon. 01.08.]
   Zenit               3-0  Terek
   CSKA                1-0  Anzhi
   Amkar               1-0  Krylia Sovetov
-[Sat. 02.08.]
+[Tue. 02.08.]
   Rostov              0-0  Krasnodar
   Mordovia            1-1  Ural
   Lokomotiv           1-1  Dinamo
-[Sun. 03.08.]
+[Wed. 03.08.]
   Spartak             1-0  Rubin
 
 
 Matchday 4
 
-[Thu. 07.08.]
+[Sun. 07.08.]
   Terek               0-0  Mordovia
-[Fri. 08.08.]
+[Mon. 08.08.]
   Ural                1-3  Lokomotiv
   Anzhi               2-3  Dinamo
-[Sat. 09.08.]
+[Tue. 09.08.]
   CSKA                2-0  Amkar
   Krylia Sovetov      0-2  Spartak
   Ufa                 0-1  Zenit
-[Sun. 10.08.]
+[Wed. 10.08.]
   Rubin               0-3  Rostov
   Krasnodar           1-1  Kuban
 
 
 Matchday 5
 
-[Thu. 14.08.]
+[Sun. 14.08.]
   Spartak             1-2  CSKA
   Amkar               1-1  Anzhi
-[Fri. 15.08.]
+[Mon. 15.08.]
   Kuban               0-1  Rubin
   Zenit               0-2  Krasnodar
-[Sat. 16.08.]
+[Tue. 16.08.]
   Rostov              1-1  Krylia Sovetov
   Dinamo              1-0  Ural
   Lokomotiv           0-0  Terek
-[Sun. 17.08.]
+[Wed. 17.08.]
   Mordovia            0-1  Ufa
 
 
 Matchday 6
 
-[Thu. 21.08.]
+[Sun. 21.08.]
   Terek               1-1  Dinamo
-[Fri. 22.08.]
+[Mon. 22.08.]
   Amkar               1-3  Spartak
   CSKA                2-1  Rostov
   Anzhi               1-1  Ural
-[Sat. 23.08.]
+[Tue. 23.08.]
   Ufa                 0-3  Lokomotiv
   Krasnodar           0-0  Mordovia
-[Sun. 24.08.]
+[Wed. 24.08.]
   Krylia Sovetov      3-0  Kuban
   Rubin               1-3  Zenit
 
 
 Matchday 7
 
-[Thu. 28.08.]
+[Sun. 28.08.]
   Rostov              1-0  Amkar
   Ural                3-3  Terek
-[Fri. 29.08.]
+[Mon. 29.08.]
   Spartak             1-2  Anzhi
   Zenit               1-3  Krylia Sovetov
   Dinamo              2-0  Ufa
-[Sat. 30.08.]
+[Tue. 30.08.]
   Kuban               0-1  CSKA
   Mordovia            2-1  Rubin
   Lokomotiv           2-1  Krasnodar
@@ -113,15 +113,17 @@ Matchday 7
 
 Matchday 8
 
-[]
-  Ufa                 -  Ural
-  Krasnodar           -  Dinamo
-  Spartak             -  Rostov
-  Krylia Sovetov      -  Mordovia
-  Anzhi               -  Terek
+[Mon. 12.09.]
   Rubin               -  Lokomotiv
   Amkar               -  Kuban
   CSKA                -  Zenit
+[Tue. 13.09.]
+  Krasnodar           -  Dinamo
+  Spartak             -  Rostov
+  Anzhi               -  Terek
+[Wed. 14.09.]
+  Ufa                 -  Ural
+  Krylia Sovetov      -  Mordovia
 
 
 Matchday 9
@@ -141,13 +143,13 @@ Matchday 10
 
 []
   Krylia Sovetov      -  Dinamo
-  Spartak             -  Zenit
   Anzhi               -  Ufa
   CSKA                -  Lokomotiv
   Krasnodar           -  Terek
-  Rubin               -  Ural
-  Amkar               -  Mordovia
   Rostov              -  Kuban
+  Amkar               -  Mordovia
+  Spartak             -  Zenit
+  Rubin               -  Ural
 
 
 Matchday 11
@@ -185,8 +187,8 @@ Matchday 13
   Ufa                 -  Krylia Sovetov
   Terek               -  CSKA
   Mordovia            -  Kuban
-  Krasnodar           -  Rubin
   Lokomotiv           -  Rostov
+  Krasnodar           -  Rubin
 
 
 Matchday 14
@@ -194,12 +196,12 @@ Matchday 14
 []
   Spartak             -  Ural
   Amkar               -  Terek
-  Zenit               -  Mordovia
   Krylia Sovetov      -  Krasnodar
+  Zenit               -  Mordovia
   Rostov              -  Dinamo
-  Anzhi               -  Rubin
-  CSKA                -  Ufa
   Kuban               -  Lokomotiv
+  CSKA                -  Ufa
+  Anzhi               -  Rubin
 
 
 Matchday 15
