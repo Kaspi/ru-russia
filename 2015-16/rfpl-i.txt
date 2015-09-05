@@ -128,67 +128,80 @@ Matchday 8
 
 Matchday 9
 
-[]
+[Fri. 18.09.]
+  Rostov              -  Anzhi
+[Sat. 19.09.]
   Terek               -  Ufa
-  Dinamo              -  Rubin
-  Ural                -  Krasnodar
+  Kuban               -  Spartak
+[Sun. 20.09.]
   Lokomotiv           -  Krylia Sovetov
   Mordovia            -  CSKA
-  Rostov              -  Anzhi
   Zenit               -  Amkar
-  Kuban               -  Spartak
+[Mon. 21.09.]
+  Dinamo              -  Rubin
+  Ural                -  Krasnodar
 
 
 Matchday 10
 
-[]
-  Krylia Sovetov      -  Dinamo
+[Sat. 26.09.]
   Anzhi               -  Ufa
   CSKA                -  Lokomotiv
-  Krasnodar           -  Terek
-  Rostov              -  Kuban
-  Amkar               -  Mordovia
   Spartak             -  Zenit
+[Sun. 27.09.]
+  Krylia Sovetov      -  Dinamo
+  Krasnodar           -  Terek
   Rubin               -  Ural
+[Mon. 28.09.]
+  Amkar               -  Mordovia
+  Rostov              -  Kuban
 
 
 Matchday 11
 
-[]
-  Terek               -  Rubin
+[Fri. 02.10.]
   Ural                -  Krylia Sovetov
-  Dinamo              -  CSKA
-  Lokomotiv           -  Amkar
+[Sat. 03.10.]
   Mordovia            -  Spartak
   Zenit               -  Rostov
   Kuban               -  Anzhi
+[Sun. 04.10.]
+  Terek               -  Rubin
+  Dinamo              -  CSKA
+  Lokomotiv           -  Amkar
   Ufa                 -  Krasnodar
 
 
 Matchday 12
 
-[]
-  Spartak             -  Lokomotiv
-  Rostov              -  Mordovia
+[Fri. 16.10.]
   Kuban               -  Zenit
+[Sat. 17.10.]
   Rubin               -  Ufa
-  Anzhi               -  Krasnodar
   CSKA                -  Ural
   Amkar               -  Dinamo
+[Sun. 18.10.]
+  Spartak             -  Lokomotiv
+  Anzhi               -  Krasnodar
   Krylia Sovetov      -  Terek
+[Mon. 19.10.]
+  Rostov              -  Mordovia
 
 
 Matchday 13
 
-[]
-  Zenit               -  Anzhi
-  Ural                -  Amkar
-  Dinamo              -  Spartak
+[Fri. 23.10.]
   Ufa                 -  Krylia Sovetov
-  Terek               -  CSKA
+[Sat. 24.10.]
+  Zenit               -  Anzhi
   Mordovia            -  Kuban
-  Lokomotiv           -  Rostov
+[Sun. 25.10.]
+  Dinamo              -  Spartak
+  Terek               -  CSKA
   Krasnodar           -  Rubin
+[Mon. 26.10.]
+  Ural                -  Amkar
+  Lokomotiv           -  Rostov
 
 
 Matchday 14
