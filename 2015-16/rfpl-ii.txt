@@ -42,14 +42,14 @@ Matchday 18
 Matchday 19
 
 []
-  Krylia Sovetov      -  Rostov
-  Terek               -  Lokomotiv
-  Anzhi               -  Amkar
-  Rubin               -  Kuban
   Ufa                 -  Mordovia
   CSKA                -  Spartak
-  Krasnodar           -  Zenit
   Ural                -  Dinamo
+  Anzhi               -  Amkar
+  Krylia Sovetov      -  Rostov
+  Terek               -  Lokomotiv
+  Krasnodar           -  Zenit
+  Rubin               -  Kuban
 
 
 Matchday 20

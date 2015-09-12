@@ -114,9 +114,9 @@ Matchday 7
 Matchday 8
 
 [Sat. 12.09.]
-  Rubin               -  Lokomotiv
-  Amkar               -  Kuban
-  CSKA                -  Zenit
+  Rubin               3-1  Lokomotiv
+  Amkar               1-1  Kuban
+  CSKA                2-2  Zenit
 [Sun. 13.09.]
   Krasnodar           -  Dinamo
   Spartak             -  Rostov
@@ -209,12 +209,12 @@ Matchday 14
 []
   Spartak             -  Ural
   Amkar               -  Terek
-  Krylia Sovetov      -  Krasnodar
   Zenit               -  Mordovia
-  Rostov              -  Dinamo
-  Kuban               -  Lokomotiv
+  Krylia Sovetov      -  Krasnodar
   CSKA                -  Ufa
   Anzhi               -  Rubin
+  Rostov              -  Dinamo
+  Kuban               -  Lokomotiv
 
 
 Matchday 15
