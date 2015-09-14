@@ -118,12 +118,12 @@ Matchday 8
   Amkar               1-1  Kuban
   CSKA                2-2  Zenit
 [Sun. 13.09.]
-  Krasnodar           -  Dinamo
-  Spartak             -  Rostov
-  Anzhi               -  Terek
+  Krasnodar           4-0  Dinamo
+  Spartak             1-0  Rostov
+  Anzhi               0-2  Terek
 [Mon. 14.09.]
-  Ufa                 -  Ural
-  Krylia Sovetov      -  Mordovia
+  Ufa                 0-1  Ural
+  Krylia Sovetov      1-0  Mordovia
 
 
 Matchday 9
